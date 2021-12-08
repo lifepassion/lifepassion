@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**lifepassion/lifepassion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **lifepassion/lifepassion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lifepassion&count_private=true&show_icons=true&include_all_commits=true&theme=nord)
